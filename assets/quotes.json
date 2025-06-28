@@ -1,0 +1,312 @@
+{
+    "quotes": [
+        {
+            "id": 1,
+            "text": "The unexamined life is not worth living.",
+            "author": "Socrates",
+            "category": "Wisdom"
+        },
+        {
+            "id": 2,
+            "text": "The journey of a thousand miles begins with one step.",
+            "author": "Lao Tzu",
+            "category": "Growth"
+        },
+        {
+            "id": 3,
+            "text": "Excellence is not an act, but a habit.",
+            "author": "Aristotle",
+            "category": "Character"
+        },
+        {
+            "id": 4,
+            "text": "Happiness comes from within. Do not seek it without.",
+            "author": "Buddha",
+            "category": "Happiness"
+        },
+        {
+            "id": 5,
+            "text": "To know what you know and what you do not know, that is true knowledge.",
+            "author": "Confucius",
+            "category": "Wisdom"
+        },
+        {
+            "id": 6,
+            "text": "The cave you fear to enter holds the treasure you seek.",
+            "author": "Joseph Campbell",
+            "category": "Purpose"
+        },
+        {
+            "id": 7,
+            "text": "The only way to have a friend is to be one.",
+            "author": "Ralph Waldo Emerson",
+            "category": "Character"
+        },
+        {
+            "id": 8,
+            "text": "Everything has beauty, but not everyone sees it.",
+            "author": "Confucius",
+            "category": "Wisdom"
+        },
+        {
+            "id": 9,
+            "text": "Know thyself.",
+            "author": "Temple of Apollo at Delphi",
+            "category": "Wisdom"
+        },
+        {
+            "id": 10,
+            "text": "Nature does not hurry, yet everything is accomplished.",
+            "author": "Lao Tzu",
+            "category": "Growth"
+        },
+        {
+            "id": 11,
+            "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+            "author": "Nelson Mandela",
+            "category": "Resilience"
+        },
+        {
+            "id": 12,
+            "text": "Happiness is not something ready made. It comes from your own actions.",
+            "author": "Dalai Lama",
+            "category": "Happiness"
+        },
+        {
+            "id": 13,
+            "text": "Man is condemned to be free.",
+            "author": "Jean-Paul Sartre",
+            "category": "Purpose"
+        },
+        {
+            "id": 14,
+            "text": "He who has a why to live can bear almost any how.",
+            "author": "Friedrich Nietzsche",
+            "category": "Purpose"
+        },
+        {
+            "id": 15,
+            "text": "The superior man is modest in his speech, but exceeds in his actions.",
+            "author": "Confucius",
+            "category": "Character"
+        },
+        {
+            "id": 16,
+            "text": "The present moment is all we have.",
+            "author": "Thich Nhat Hanh",
+            "category": "Wisdom"
+        },
+        {
+            "id": 17,
+            "text": "The only true wisdom is in knowing you know nothing.",
+            "author": "Socrates",
+            "category": "Wisdom"
+        },
+        {
+            "id": 18,
+            "text": "Life is really simple, but we insist on making it complicated.",
+            "author": "Confucius",
+            "category": "Wisdom"
+        },
+        {
+            "id": 19,
+            "text": "Happiness resides not in possessions, and not in gold; happiness dwells in the soul.",
+            "author": "Democritus",
+            "category": "Happiness"
+        },
+        {
+            "id": 20,
+            "text": "The way is not in the sky. The way is in the heart.",
+            "author": "Buddha",
+            "category": "Purpose"
+        },
+        {
+            "id": 21,
+            "text": "What you are is what you have been. What you'll be is what you do now.",
+            "author": "Buddha",
+            "category": "Growth"
+        },
+        {
+            "id": 22,
+            "text": "The whole is greater than the sum of its parts.",
+            "author": "Aristotle",
+            "category": "Wisdom"
+        },
+        {
+            "id": 23,
+            "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+            "author": "Ralph Waldo Emerson",
+            "category": "Character"
+        },
+        {
+            "id": 24,
+            "text": "The only real failure in life is not to be true to the best one knows.",
+            "author": "Buddha",
+            "category": "Character"
+        },
+        {
+            "id": 25,
+            "text": "The greatest wealth is to live content with little.",
+            "author": "Plato",
+            "category": "Happiness"
+        },
+        {
+            "id": 26,
+            "text": "Everything flows.",
+            "author": "Heraclitus",
+            "category": "Growth"
+        },
+        {
+            "id": 27,
+            "text": "The key to growth is the introduction of higher dimensions of consciousness into our awareness.",
+            "author": "Lao Tzu",
+            "category": "Growth"
+        },
+        {
+            "id": 28,
+            "text": "One cannot step twice in the same river.",
+            "author": "Heraclitus",
+            "category": "Growth"
+        },
+        {
+            "id": 29,
+            "text": "The soul becomes dyed with the color of its thoughts.",
+            "author": "Marcus Aurelius",
+            "category": "Character"
+        },
+        {
+            "id": 30,
+            "text": "Wisdom begins in wonder.",
+            "author": "Socrates",
+            "category": "Wisdom"
+        },
+        {
+            "id": 31,
+            "text": "The obstacle is the path.",
+            "author": "Zen Proverb",
+            "category": "Resilience"
+        },
+        {
+            "id": 32,
+            "text": "Virtue is nothing else than right reason.",
+            "author": "Seneca",
+            "category": "Character"
+        },
+        {
+            "id": 33,
+            "text": "The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.",
+            "author": "John Milton",
+            "category": "Purpose"
+        },
+        {
+            "id": 34,
+            "text": "The price of greatness is responsibility.",
+            "author": "Winston Churchill",
+            "category": "Character"
+        },
+        {
+            "id": 35,
+            "text": "In the midst of chaos, there is also opportunity.",
+            "author": "Sun Tzu",
+            "category": "Resilience"
+        },
+        {
+            "id": 36,
+            "text": "The only Zen you find on the tops of mountains is the Zen you bring up there.",
+            "author": "Robert M. Pirsig",
+            "category": "Wisdom"
+        },
+        {
+            "id": 37,
+            "text": "The measure of intelligence is the ability to change.",
+            "author": "Albert Einstein",
+            "category": "Growth"
+        },
+        {
+            "id": 38,
+            "text": "The goal of life is living in agreement with nature.",
+            "author": "Zeno of Citium",
+            "category": "Purpose"
+        },
+        {
+            "id": 39,
+            "text": "The only wealth which you will keep forever is the wealth you have given away.",
+            "author": "Marcus Aurelius",
+            "category": "Character"
+        },
+        {
+            "id": 40,
+            "text": "The superior man understands what is right; the inferior man understands what will sell.",
+            "author": "Confucius",
+            "category": "Character"
+        },
+        {
+            "id": 41,
+            "text": "The art of living is more like wrestling than dancing.",
+            "author": "Marcus Aurelius",
+            "category": "Resilience"
+        },
+        {
+            "id": 42,
+            "text": "Time is the wisest counselor of all.",
+            "author": "Pericles",
+            "category": "Wisdom"
+        },
+        {
+            "id": 43,
+            "text": "No man ever steps in the same river twice, for it's not the same river and he's not the same man.",
+            "author": "Heraclitus",
+            "category": "Growth"
+        },
+        {
+            "id": 44,
+            "text": "The highest good is like water.",
+            "author": "Lao Tzu",
+            "category": "Character"
+        },
+        {
+            "id": 45,
+            "text": "To be great is to be misunderstood.",
+            "author": "Ralph Waldo Emerson",
+            "category": "Resilience"
+        },
+        {
+            "id": 46,
+            "text": "The beginning of wisdom is the definition of terms.",
+            "author": "Socrates",
+            "category": "Wisdom"
+        },
+        {
+            "id": 47,
+            "text": "Real knowledge is to know the extent of one's ignorance.",
+            "author": "Confucius",
+            "category": "Wisdom"
+        },
+        {
+            "id": 48,
+            "text": "The flame that burns twice as bright burns half as long.",
+            "author": "Lao Tzu",
+            "category": "Purpose"
+        },
+        {
+            "id": 49,
+            "text": "What we think, we become.",
+            "author": "Buddha",
+            "category": "Growth"
+        },
+        {
+            "id": 50,
+            "text": "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
+            "author": "Lao Tzu",
+            "category": "Character"
+        }
+    ],
+    "categories": [
+        "Wisdom",
+        "Growth",
+        "Character",
+        "Purpose",
+        "Happiness",
+        "Resilience"
+    ]
+}
